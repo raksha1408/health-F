@@ -1,0 +1,123 @@
+//this dummy array is used to show the doctor based on city
+[
+  {
+    "id": 1,
+    "name": "Dr. Raj Patel",
+    "expertise": "Orthopedics",
+    "city": "Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Priya Shah",
+    "expertise": "Neurology",
+    "city": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Anand Kumar",
+    "expertise": "Cardiology",
+    "city": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Nisha Gupta",
+    "expertise": "Dermatology",
+    "city": "Chennai"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Sanjay Verma",
+    "expertise": "Pediatrics",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Deepa Reddy",
+    "expertise": "Gastroenterology",
+    "city": "Kolkata"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Rohit Singh",
+    "expertise": "Oncology",
+    "city": "Mumbai"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Ananya Joshi",
+    "expertise": "Psychiatry",
+    "city": "Delhi"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Vikram Malhotra",
+    "expertise": "Orthopedics",
+    "city": "Bangalore"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Anjali Kapoor",
+    "expertise": "Cardiology",
+    "city": "Chennai"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Sameer Desai",
+    "expertise": "Dermatology",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Meera Sharma",
+    "expertise": "Pediatrics",
+    "city": "Kolkata"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Arjun Singh",
+    "expertise": "Neurology",
+    "city": "Mumbai"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Pooja Srinivasan",
+    "expertise": "Gastroenterology",
+    "city": "Delhi"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Karthik Iyer",
+    "expertise": "Oncology",
+    "city": "Bangalore"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Ayesha Khan",
+    "expertise": "Psychiatry",
+    "city": "Chennai"
+  },
+  {
+    "id": 17,
+    "name": "Dr. Rahul Sharma",
+    "expertise": "Orthopedics",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Natasha Das",
+    "expertise": "Cardiology",
+    "city": "Kolkata"
+  },
+  {
+    "id": 19,
+    "name": "Dr. Vivek Menon",
+    "expertise": "Dermatology",
+    "city": "Mumbai"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Anusha Rao",
+    "expertise": "Neurology",
+    "city": "Delhi"
+  }
+]
